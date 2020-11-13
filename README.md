@@ -1,4 +1,11 @@
 # api-listdefaulting
 
-npm i
+## Project setup
+```
+npm install
+```
+
+## Project start
+```
 npm start
+```
